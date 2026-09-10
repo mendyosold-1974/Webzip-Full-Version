@@ -238,3 +238,6 @@ This repository serves as the official landing page for WebZIP. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WebZIP today!**
+
+---
+**Last updated:** 2026-09-10 16:05:34 UTC
